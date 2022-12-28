@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - samuelxu999
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - samuelxu999/Cryptography_dev 
+  - samuelxu999/Research
+  - samuelxu999/Blockchain_dev
+  - samuelxu999/Microservices_dev
+  - samuelxu999/SmartContract_dev 
+  - samuelxu999/FederatedLearning_dev
