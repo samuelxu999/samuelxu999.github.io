@@ -2,11 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching experience.
 nav: true
 nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h4>Teaching Assistant</h4>
+<ul>
+<li>Sophomore Design (EECE-287), Fall 2018 & Fall 2019, Binghamton Univeristy</li>
+<li>Digital Logic Design (EECE-251), Spring 2019 & Spring 2020, Binghamton Univeristy</li>
+</ul>
 
-Organize your courses by years, topics, or universities, however you like!
+<h4>Guest Lecturer</h4>
+<ul>
+<li>SeniorDesignI(EECE487), Fall 2022, Binghamton Univeristy</li>
+<li>Computer Network Architecture (EECE-453/553), Fall 2018~2022, Binghamton Univeristy</li>
+<li>Network Security (EECE-658), Spring 2018 & Spring 2019, Binghamton Univeristy</li>
+</ul>
