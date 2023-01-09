@@ -8,6 +8,7 @@ nav_order: 4
 ---
 <h4>Awards and Honors</h4>
 <ul>
+<li>Graduate Student Excellence Award in Research, Graduate School, Binghamton University (2023)</li>
 <li>Computers Best Paper Award, MDPI (2019)</li>
 <li>Outstanding Master Research, Department of Electrical and Computer Engineering, Binghamton University (2018)</li>
 </ul>
