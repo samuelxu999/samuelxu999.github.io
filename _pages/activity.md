@@ -17,7 +17,6 @@ nav_order: 4
 <h4>Conference Technical Program Committee (TPC) Member</h4>
 
 <b>IEEE International Conference on Blockchain (IEEE-Blockchain)</b>
-
 <ul>
 <li>Blockchain 2022. The 5rd IEEEInternal Conference on Blockchain Conference.</li>
 <li>Blockchain 2021. The 4rd IEEEInternal Conference on Blockchain Conference.</li>
@@ -39,7 +38,14 @@ nav_order: 4
 
 <b>IEEE WiMob</b>
 <ul>
+<li>WiMob-SPPDT’2023. Artificial Intelligence and Machine Learning Technologies for IoT (AMT)</li>
 <li>WiMob-SPPDT’2022. WiMob Short Papers, Posters and Demos Track.</li>
+</ul>
+<br>
+
+<b>EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles</b>
+<ul>
+<li>SmartSP 2023.</li>
 </ul>
 <br>
 
