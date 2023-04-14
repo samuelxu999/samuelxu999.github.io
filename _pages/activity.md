@@ -41,13 +41,18 @@ nav_order: 4
 <li>WiMob-SPPDT’2023. Artificial Intelligence and Machine Learning Technologies for IoT (AMT)</li>
 <li>WiMob-SPPDT’2022. WiMob Short Papers, Posters and Demos Track.</li>
 </ul>
-<br>
 
 <b>EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles</b>
 <ul>
 <li>SmartSP 2023.</li>
 </ul>
+
+<b>IFIP International Internet of Things (IoT) Conference</b>
+<ul>
+<li>SIFIP-IoT2023</li>
+</ul>
 <br>
+
 
 <h4>Reviewer for Journals</h4>
 <ul>
