@@ -19,14 +19,14 @@ social: false  # includes social icons at the bottom of the page
 ---
 <b>About me:</b>
 
-I earned Ph.D. of Electrical and Computer Engineering at the [Binghamton University - State University of New York (SUNY)](https://www.binghamton.edu). I earned B.S. on Mechanical Engineering from Nanjing University of Science & Technology, China in 2007, and received M.S. degree on Mechanical and Electrical Engineering from Nanjing University of Aeronautics & Astronautics in 2010. Prior to joining Binghamton University, I have been worked in Siemens on software development and system integration from June.2010 to June.2016.
+I obtained my Ph.D. degree in Electrical and Computer Engineering at the [Binghamton University - State University of New York (SUNY)](https://www.binghamton.edu), supervised by [Dr. Yu Chen](https://bingweb.binghamton.edu/~ychen/). I received master's degree from Nanjing University of Aeronautics & Astronautics (NUAA) in 2010 and bachelor's degree from Nanjing University of Science & Technology (NJUST) in 2007. Prior to joining Binghamton University, I have been worked in Siemens on software development and system integration from 2010 to 2016.
 [[Curriculum Vitae]](/assets/pdf/cv_main.pdf)
 
 <b>Research Interests:</b>
 <ul>
 <li>Machine Learning, Blockchain, Algorithm Design, Cloud/Fog/Edge Computing Paradigm.</li>
 <li>Blockchain and smart contract enabled security solutions to Internet of Things (IoTs).</li>
-<li>Intelligence, Assurance and Resilience of Next Generation Network.</li>
+<li>Intelligence, Assurance and Resilience of Next-G Network (NGN).</li>
 </ul>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
