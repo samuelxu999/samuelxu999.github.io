@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 <b>About me:</b>
 
-I'm a PhD candidate of Electrical and Computer Engineering at the [Binghamton University - State University of New York (SUNY)](https://www.binghamton.edu). I earned B.S. on Mechanical Engineering from Nanjing University of Science & Technology, China in 2007, and received M.S. degree on Mechanical and Electrical Engineering from Nanjing University of Aeronautics & Astronautics in 2010. Prior to joining Binghamton University, I have been worked in Siemens on software development and system integration from June.2010 to June.2016.
+I earned Ph.D. of Electrical and Computer Engineering at the [Binghamton University - State University of New York (SUNY)](https://www.binghamton.edu). I earned B.S. on Mechanical Engineering from Nanjing University of Science & Technology, China in 2007, and received M.S. degree on Mechanical and Electrical Engineering from Nanjing University of Aeronautics & Astronautics in 2010. Prior to joining Binghamton University, I have been worked in Siemens on software development and system integration from June.2010 to June.2016.
 [[Curriculum Vitae]](/assets/pdf/cv_main.pdf)
 
 <b>Research Interests:</b>
