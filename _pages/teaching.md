@@ -7,6 +7,11 @@ nav: true
 nav_order: 3
 ---
 
+<h4>Instructor</h4>
+<ul>
+<li>Digital Forensics (SAT4816/5816), Fall 2023, Michigan Technological Univeristy</li>
+</ul>
+
 <h4>Teaching Assistant</h4>
 <ul>
 <li>Sophomore Design (EECE-287), Fall 2018 & Fall 2019, Binghamton Univeristy</li>
