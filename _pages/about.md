@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 I joined the [Department of Applied Computing](https://www.mtu.edu/applied-computing/) at [Michigan Technological University](https://www.mtu.edu) in 2023. [[Curriculum Vitae]](/assets/pdf/cv_main.pdf)
 
-I obtained my Ph.D. degree in Electrical and Computer Engineering at the [Binghamton University - State University of New York (SUNY)](https://www.binghamton.edu), supervised by [Dr. Yu Chen](https://bingweb.binghamton.edu/~ychen/). I received master's degree from Nanjing University of Aeronautics & Astronautics (NUAA) in 2010 and bachelor's degree from Nanjing University of Science & Technology (NJUST) in 2007. Prior to joining Binghamton University, I have been worked in Siemens on software development and system integration from 2010 to 2016.
+I obtained a Ph.D. and an M.S. in Electrical and Computer Engineering at the [Binghamton University - State University of New York (SUNY)](https://www.binghamton.edu), supervised by [Dr. Yu Chen](https://bingweb.binghamton.edu/~ychen/). I received a M.S. in Mechanical and Electrical Engineering from Nanjing University of Aeronautics & Astronautics (NUAA) in 2010 and a B.S. in Mechanical Engineering from Nanjing University of Science & Technology (NJUST) in 2007. Prior to joining Binghamton University, I have been worked in Siemens on software development and system integration from 2010 to 2016.
 
 <b>Research Interests:</b>
 <ul>
