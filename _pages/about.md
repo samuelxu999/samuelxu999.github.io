@@ -17,6 +17,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+<p style="color:red;">I am looking for self-motivated Ph.D. students to join my research group (supported as RA/TA). If you are interested, shoot my email (ronghuax AT mtu DOT edu) with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe would support your application.</p>
 <b>About me:</b>
 
 I joined the [Department of Applied Computing](https://www.mtu.edu/applied-computing/) at [Michigan Technological University](https://www.mtu.edu) in 2023. [[Curriculum Vitae]](/assets/pdf/cv_main.pdf)
@@ -25,12 +26,11 @@ I obtained a Ph.D. and an M.S. in Electrical and Computer Engineering at the [Bi
 
 <b>Research Interests:</b>
 <ul>
-<li>Machine Learning, Blockchain, Algorithm Design, Cloud/Fog/Edge Computing Paradigm.</li>
-<li>Blockchain and smart contract enabled security solutions to Internet of Things (IoTs).</li>
+<li>Blockchain and Distributed Ledger Technology, Internet-of-Things (IoT), Machine Learning, Cloud/Fog/Edge Computing Paradigm.</li>
+<li>Scalablility and Interoperability of the Decentralized Security Network Intrastructure.</li>
 <li>Intelligence, Assurance and Resilience of Next-G Network (NGN).</li>
 </ul>
 
-<!-- I am looking for self-motivated Ph.D. students to join my group. If you are interested, please feel free to send me an email with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe would support your application. -->
 
 <!-- I am looking for highly motivated PhD students who are interested in solving real-world security and privacy problems or building secure systems (supported as RA/TA). Shoot me an email!!! -->
 
