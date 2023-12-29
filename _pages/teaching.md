@@ -9,7 +9,7 @@ nav_order: 3
 
 <h4>Instructor</h4>
 <ul>
-<li>Blockchain Fundamentals and Applications (SAT5980), Spring 2024, Michigan Technological Univeristy</li>
+<li>Blockchain Fundamentals & Applications (SAT5980), Spring 2024, Michigan Technological Univeristy</li>
 <li>Digital Forensics (SAT4816/5816), Fall 2023, Michigan Technological Univeristy</li>
 </ul>
 
