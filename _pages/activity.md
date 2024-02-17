@@ -19,9 +19,7 @@ nav_order: 4
 
 <b>IEEE International Conference on Blockchain (IEEE-Blockchain)</b>
 <ul>
-<li>Blockchain 2022. The 5rd IEEEInternal Conference on Blockchain Conference.</li>
-<li>Blockchain 2021. The 4rd IEEEInternal Conference on Blockchain Conference.</li>
-<li>Blockchain 2020. The 3rd IEEEInternal Conference on Blockchain Conference.</li>
+<li>Blockchain 2020~2024. The IEEEInternal Conference on Blockchain Conference.</li>
 <li>LightChain 2019. The 1st International Workshop on Lightweight Blockchain for Edge Intelligence and Security.</li>
 </ul>
 
@@ -46,14 +44,29 @@ nav_order: 4
 <b>EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles</b>
 <ul>
 <li>SmartSP 2023.</li>
+<li>SmartSP 2024.</li>
 </ul>
 
 <b>IFIP International Internet of Things (IoT) Conference</b>
 <ul>
 <li>SIFIP-IoT2023</li>
 </ul>
-<br>
 
+<b>IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</b>
+<ul>
+<li>CHASE 2024.</li>
+</ul>
+
+<b>IEEE International Conference on Blockchain and Cryptocurrency (ICBC)</b>
+<ul>
+<li>DePIN 2024. The 2nd International Workshop on Decentralized Physical Infrastructure Networks.</li>
+</ul>
+
+<b>IEEE Symposium on Computers and Communications (ISCC)</b>
+<ul>
+<li>ISCC 2024. The 29th IEEE Symposium on Computers and Communications.</li>
+</ul>
+<br>
 
 <h4>Reviewer for Journals</h4>
 <ul>
