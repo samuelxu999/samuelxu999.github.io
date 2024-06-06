@@ -17,6 +17,11 @@ nav_order: 4
 
 <h4>Conference Technical Program Committee (TPC) Member</h4>
 
+<b>ACM International Conference on Embedded Networked Sensor Systems (SenSys)</b>
+<ul>
+<li>BlockSys 2022~2024. The ACM IEEEInternal Workshop on Blockchain-enabled Networked Sensor Systems.</li>
+</ul>
+
 <b>IEEE International Conference on Blockchain (IEEE-Blockchain)</b>
 <ul>
 <li>Blockchain 2020~2024. The IEEEInternal Conference on Blockchain Conference.</li>
@@ -25,14 +30,12 @@ nav_order: 4
 
 <b>IEEE International Smart Cities Conference (ISC2)</b>
 <ul>
-<li>BLESS 2020. The 3rd International Workshop on BLockchain Enabled Sustainable Smart Cities.</li>
-<li>BLESS 2019. The 2rd International Workshop on BLockchain Enabled Sustainable Smart Cities.</li>
+<li>BLESS 2019~2020. The International Workshop on BLockchain Enabled Sustainable Smart Cities.</li>
 </ul>
 
 <b>IEEE International Conference on Computer Communications and Networks (ICCCN)</b>
 <ul>
-<li>BLESS 2022. The 5rd International Workshop on BLockchain Enabled Sustainable Smart Cities.</li>
-<li>BLESS 2021. The 4rd International Workshop on BLockchain Enabled Sustainable Smart Cities.</li>
+<li>BLESS 2021~2022. The International Workshop on BLockchain Enabled Sustainable Smart Cities.</li>
 </ul>
 
 <b>IEEE WiMob</b>
@@ -43,8 +46,7 @@ nav_order: 4
 
 <b>EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles</b>
 <ul>
-<li>SmartSP 2023.</li>
-<li>SmartSP 2024.</li>
+<li>SmartSP 2023~2024.</li>
 </ul>
 
 <b>IFIP International Internet of Things (IoT) Conference</b>
