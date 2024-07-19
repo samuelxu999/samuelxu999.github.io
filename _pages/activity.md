@@ -68,6 +68,11 @@ nav_order: 4
 <ul>
 <li>ISCC 2024. The 29th IEEE Symposium on Computers and Communications.</li>
 </ul>
+
+<b>IEEE Intelligent Cybersecurity Conference (ICSC)</b>
+<ul>
+<li>ICSC 2024. The Fourth Intelligent Cybersecurity Conference.</li>
+</ul>
 <br>
 
 <h4>Reviewer for Journals</h4>
