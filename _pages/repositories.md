@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: This page shows my own GitHub profile and repositories.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 ## GitHub users

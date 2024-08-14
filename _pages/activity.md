@@ -1,19 +1,11 @@
 ---
 layout: page
 permalink: /activity/
-title: activities
+title: Professional Activity
 description: 
 nav: true
 nav_order: 4
 ---
-<h4>Awards and Honors</h4>
-<ul>
-<li>ICC Rapid Seeding Awards, Michigan Technological University (2024)</li>
-<li>Graduate Student Excellence Award in Research, Graduate School, Binghamton University (2023)</li>
-<li>Computers Best Paper Award, MDPI (2019)</li>
-<li>Outstanding Master Research, Department of Electrical and Computer Engineering, Binghamton University (2018)</li>
-</ul>
-<br>
 
 <h4>Conference Technical Program Committee (TPC) Member</h4>
 
