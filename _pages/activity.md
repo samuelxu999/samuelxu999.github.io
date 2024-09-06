@@ -108,4 +108,5 @@ nav_order: 4
 <ul>
 <li>IEEE</li>
 <li>ACM</li>
+<li>EAI</li>
 </ul>
