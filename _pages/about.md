@@ -17,7 +17,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-<p style="color:red;">I am looking for self-motivated Ph.D. students to join my research group (supported as RA/TA). If you are interested, shoot my email (ronghuax AT mtu DOT edu) with your CV, transcripts, TOEFL and GRE scores, and any other relevant materials that you believe would support your application.</p>
+<p style="color:red;">I am looking for self-motivated Ph.D. students to join my research group (supported as RA/TA). If you are interested, shoot my email (ronghuax AT mtu DOT edu) with your research plan, CV, and any other relevant materials that you believe would support your application (transcripts, TOEFL and GRE scores, etc.).</p>
 <b>About me:</b>
 
 I joined the [Department of Applied Computing](https://www.mtu.edu/applied-computing/) at [Michigan Technological University](https://www.mtu.edu) in 2023. [[Curriculum Vitae]](/assets/pdf/cv_main.pdf)

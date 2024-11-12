@@ -17,7 +17,7 @@ nav_order: 2
 
 <h3>Ph.D. Students</h3>
 <br>
-<h4>Xinyun Liu: Summer 2024 - Present</h4>
+<h4>Xinyun Liu: Fall 2024 - Present</h4>
 
 <br>
 
