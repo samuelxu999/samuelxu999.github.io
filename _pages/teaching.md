@@ -9,6 +9,7 @@ nav_order: 3
 
 <h4>Instructor</h4>
 <ul>
+<li>Internet of Medical Things (IoMT) and Remote Patient Monitoring (RPM) (SAT5317), Spring 2025, Michigan Technological Univeristy</li>
 <li>Blockchain Fundamentals & Applications (SAT5980), Spring 2024, Michigan Technological Univeristy</li>
 <li>Digital Forensics (SAT4816/5816), Fall 2023/2024, Michigan Technological Univeristy</li>
 </ul>
