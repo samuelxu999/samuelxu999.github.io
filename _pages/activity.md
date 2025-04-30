@@ -6,6 +6,11 @@ description:
 nav: true
 nav_order: 4
 ---
+<h4>Editorial Community</h4>
+
+<b>Springer Nature Editorial Board - Discover Internet of Things (Jan 2025 - Now)</b>
+
+<br>
 
 <h4>Conference Technical Program Committee (TPC) Member</h4>
 
@@ -48,12 +53,12 @@ nav_order: 4
 
 <b>IEEE/ACM International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)</b>
 <ul>
-<li>CHASE 2024.</li>
+<li>CHASE 2024~2025.</li>
 </ul>
 
 <b>IEEE International Conference on Blockchain and Cryptocurrency (ICBC)</b>
 <ul>
-<li>DePIN 2024. The 2nd International Workshop on Decentralized Physical Infrastructure Networks.</li>
+<li>The International Workshop on Decentralized Physical Infrastructure Networks - DePIN 2024~2025. </li>
 </ul>
 
 <b>IEEE Symposium on Computers and Communications (ISCC)</b>

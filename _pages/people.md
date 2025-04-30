@@ -23,7 +23,19 @@ nav_order: 2
 
 <h3>M.S. Students</h3>
 <br>
-<h4>Puja Ammineni: Fall 2024 - Present</h4>
-
 <br>
+
+<h3>Alumni</h3>
+<br>
+<h4>Puja Ammineni</h4>
+<ul>
+<li>M.S. Data Science (Fall 2024 - Spring 2025)</li>
+</ul>
+<h4>Raihanah Medlock</h4>
+<ul>
+<li>M.S. Health Informatics (Fall 2024 - Spring 2025)</li>
+<li>Thesis Title: Utilizing Biometrics and Blockchain for Enhanced Security of Remote Patient Monitoring (RPM) Data Sharing</li>
+</ul>
+<br>
+
 
