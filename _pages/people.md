@@ -17,8 +17,8 @@ nav_order: 2
 
 <h3>Ph.D. Students</h3>
 <br>
+<h4>Manoj Kumal: Spring 2026 - Present</h4>
 <h4>Xinyun Liu: Fall 2024 - Present</h4>
-
 <br>
 
 <h3>M.S. Students</h3>
@@ -27,6 +27,10 @@ nav_order: 2
 
 <h3>Alumni</h3>
 <br>
+<h4>Kepha Barasa</h4>
+<ul>
+<li>M.S. Data Science (Summer 2025 - Fall 2025)</li>
+</ul>
 <h4>Puja Ammineni</h4>
 <ul>
 <li>M.S. Data Science (Fall 2024 - Spring 2025)</li>
