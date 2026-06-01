@@ -9,7 +9,10 @@ nav_order: 5
 
 <h3>Active Grants</h3>
 <ul>
-<li>Conference: CI PAOS: Challenges and Opportunities of Research Data Management in Construction Engineering (Award No. 2541825), NSF, Co-PI, $50,000, 9/2025-8/2026</li>
+<li>POSE: Phase I: Open Source Ecosystem for Accelerating Artificial Intelligence in Construction Engineering (Award No. 2541825), NSF, Co-PI, Total: $300,000, Ronghua's share: $89,000, 5/2026-4/2027</li>
+</ul>
+<ul>
+<li>Conference: CI PAOS: Challenges and Opportunities of Research Data Management in Construction Engineering (Award No. 2541825), NSF, Co-PI, Total: $50,000, Ronghua's share: $5,000, 9/2025-8/2026</li>
 </ul>
 <br>
 
